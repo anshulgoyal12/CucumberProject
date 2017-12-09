@@ -12,7 +12,7 @@ public class Attirude {
 	if(str.equals("Latenights")){
 		
 		System.out.println("latenights automation");
-		//This code is commented now 
+	
 		
 	}
 	
